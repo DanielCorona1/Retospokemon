@@ -1,0 +1,34 @@
+table, th, td{
+    border: 1px solid blue;
+    border-collapse: collapse;
+    text-align: center;
+}
+#roca{
+    width: 120px;  
+}
+#alma{
+    width: 120px;  
+}
+#arcoiris{
+    width: 120px;  
+}
+#cascada{
+    width: 120px;  
+}
+#pantano{
+    width: 120px;  
+}
+#tierra{
+    width: 120px;  
+}
+#trueno{
+    width: 120px;  
+}
+#volcan{
+    width: 120px;  
+}
+body {
+    background-image: url(/Imagenes/grookey.jpg) ;
+    background-size: cover;
+    background-repeat: repeat;
+}

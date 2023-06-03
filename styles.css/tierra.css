@@ -1,0 +1,26 @@
+table, th, td{
+    border: 1px solid blue;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#entei{
+    width: 200px;
+    height: px;  
+}
+
+#articuno{
+    width: 200px;
+    height: px;  
+}
+
+#pokedex{
+    width: 35px;
+    height: px;  
+}
+body {
+    background-image: url(/Imagenes/verde.jpg) ;
+    background-size: cover;
+    background-repeat: repeat;
+    
+}

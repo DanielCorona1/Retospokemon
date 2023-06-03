@@ -1,0 +1,33 @@
+body {
+    background-image: url(/Imagenes/rojo.png) ;
+    background-size: cover;
+    background-repeat: repeat;
+}
+table, th, td{
+    border: 1px solid blue;
+    border-collapse: collapse;
+    text-align: center;
+}
+#chalino{
+    width: 150px;
+    height: px;  
+}
+#gallodesinalo{
+    width: 150px;
+    height: px;  
+}
+
+#envivo{
+    width: 150px;
+    height: px;  
+}
+
+#almaenamorada{
+    width: 150px;
+    height: px;  
+}
+
+#lucero{
+    width: 150px;
+    height: px;  
+}
